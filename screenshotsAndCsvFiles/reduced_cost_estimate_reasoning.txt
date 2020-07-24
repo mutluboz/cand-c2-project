@@ -1,0 +1,1 @@
+I decided to sacrifice a little bit of RDS horsepower and pick a cheaper option for RDS solution which saves nearly 1K USD per month. I didn’t want to change EC2 instance types, because most of the work will be done in App servers. I saved the final 500 USD by paying upfront for RDS and EC2 instances.
